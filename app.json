@@ -7,7 +7,7 @@
         "stripe",
         "checker"
     ],
-    "repository": "https://github.com/iam-NVN/stripekey-generator",
+    "repository": " https://github.com/rr3828641/stripekey-generator",
     "env": {
         "FORWARD_ID": {
             "description": "Your UserID/Chat ID to forward live sk keys to",
